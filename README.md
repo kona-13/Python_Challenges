@@ -7,5 +7,5 @@ Files:
 
 - text_based_battle.py
   
-      - this is based on the tutorial: https://www.youtube.com/watch?v=cM_ocyOrs_k
-      - Expanded upon
+      - This is based on the tutorial https://www.youtube.com/watch?v=cM_ocyOrs_k
+      - Expanded on it
