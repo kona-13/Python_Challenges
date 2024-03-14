@@ -10,6 +10,8 @@
 - Simple to do list.
 - Stores values in a dictionary.
 - Can add, remove, clear, mark as completed,export to txt.
+- ![image](https://github.com/kona-13/Random_Python/assets/77511759/2a864d2c-9801-4b6c-a18a-9f3713a41a3f)
+
 
 # MET_Data_Plot.py
 
