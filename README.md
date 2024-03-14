@@ -24,7 +24,8 @@
 
 
 # PyGame_ball_test.py
-![image](https://github.com/kona-13/Random_Python/assets/77511759/c2e6a632-25aa-42b3-9f2b-357592151266)
+![image](https://github.com/kona-13/Random_Python/assets/77511759/69c5605a-aaba-4eb7-8aee-ba10e21ebded)
+
 
 - Bad physics
 - right click to spawn balls
