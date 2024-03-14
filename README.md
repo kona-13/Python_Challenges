@@ -4,6 +4,8 @@
 
 - This is a program that asks for users input of x & y, then asks for inputs for how much they are to be increased each time, then the sum of x and the increase is                 multiplied by the sum of y and its continues for however many times the user wants the calculation to be performed. It will then print the total time taken, and the             inputted values.
 - tl;dr enter some numbers and big number go brrr
+![image](https://github.com/kona-13/Random_Python/assets/77511759/a208c5d9-a26f-4ac2-a196-ef256f8e11d6)
+
 
 # todo.py
 
