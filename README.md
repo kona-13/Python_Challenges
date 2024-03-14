@@ -21,3 +21,4 @@
 - Plots the rainfall from the metoffice data
 - Take a dataset like https://www.metoffice.gov.uk/pub/data/weather/uk/climate/stationdata/oxforddata.txt - remove all the strings at the top + any asterisks in the dataset,, save as .csv
 - Click browse, open the .csv and then press plot
+![image](https://github.com/kona-13/Random_Python/assets/77511759/24c3c82a-9081-4c1e-af4a-8ce12e95fd1a)
