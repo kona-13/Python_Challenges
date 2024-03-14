@@ -21,3 +21,12 @@
 - Take a dataset like https://www.metoffice.gov.uk/pub/data/weather/uk/climate/stationdata/oxforddata.txt - remove all the strings at the top + any asterisks in the dataset,, save as .csv
 - Click browse, open the .csv and then press plot
 ![image](https://github.com/kona-13/Random_Python/assets/77511759/24c3c82a-9081-4c1e-af4a-8ce12e95fd1a)
+
+
+# PyGame_ball_test.py
+![image](https://github.com/kona-13/Random_Python/assets/77511759/c2e6a632-25aa-42b3-9f2b-357592151266)
+
+- Bad physics
+- right click to spawn balls
+- left click to drag and throw
+- The acceleration is fucked - the collisions are also fucked. This was my first time using PyGame and a lot of the code is stolen and slapped together from various sources.
