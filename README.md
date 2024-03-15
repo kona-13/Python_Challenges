@@ -31,3 +31,11 @@
 - right click to spawn balls
 - left click to drag and throw
 - The acceleration is fucked - the collisions are also fucked. This was my first time using PyGame and a lot of the code is stolen and slapped together from various sources.
+
+# DVD.py
+![image](https://github.com/kona-13/Python_Challenges/assets/77511759/42d1e922-2611-49ef-9252-0401391c582d)
+
+- Take on Daniel Shiffmans P5.js version - https://www.youtube.com/watch?v=0j86zuqqTlQ
+- Quite frankly some of it is pretty sketchy but it is functional.
+- I added left click to spawn more DVD logos for fun - and a toggleable FPS counter when you press 'v'
+
