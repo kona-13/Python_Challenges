@@ -53,8 +53,14 @@ class Ball:
             self.velocity_y = -self.velocity_y * 0.8  # Bounce with some loss of energy
 
         # Check for collisions with the sides of the screen
-        if self.x + self.radius >= width or self.x - self.radius <= 0:
+        if self.x + self.radius >= width: #or self.x - self.radius <= 0:
+            self.x = width - self.radius
             self.velocity_x = -self.velocity_x
+            
+        elif self.x - self.radius <= 0:
+            self.x = self.radius
+            self.velocity_x = -self.velocity_x
+            
 
     def handle_collision(self, other_ball):
         dx = other_ball.x - self.x
