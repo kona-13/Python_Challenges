@@ -39,3 +39,9 @@
 - Quite frankly some of it is pretty sketchy but it is functional.
 - I added left click to spawn more DVD logos for fun - and a toggleable FPS counter when you press 'v'
 
+# soccer.py
+![image](https://github.com/kona-13/Python_Challenges/assets/77511759/451ceca7-c910-4940-ae55-e4875d3f8e03)
+
+- Modified version of the ball physics thing I made the other day.
+- Its like that old FB messenger soccer game that they removed.
+- I might come back to this and finish it
