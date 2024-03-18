@@ -47,11 +47,13 @@ def GameLoop():
 
 
 def PlayAgain():
+    global guesses
     print("Play again? y/n")
     play = input(">> ")
     
     if play == 'y':
         clr()
+        guesses = 0
         GameLoop()
         
     elif play == 'n':
