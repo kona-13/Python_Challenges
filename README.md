@@ -45,3 +45,8 @@
 - Modified version of the ball physics thing I made the other day.
 - Its like that old FB messenger soccer game that they removed.
 - I might come back to this and finish it
+
+# Rand_Number_Guesser.py
+- Generates a number between 1 - 100
+- Counts how many guesses you made
+- Displays number and number of guesses taken to get it at the end - then prompts to play again
