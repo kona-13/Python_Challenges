@@ -2,7 +2,7 @@
 
 # multiplication_of_2_increasing_num.py
 
-- This is a program that asks for users input of x & y, then asks for inputs for how much they are to be increased each time, then the sum of x and the increase is                 multiplied by the sum of y and its continues for however many times the user wants the calculation to be performed. It will then print the total time taken, and the             inputted values.
+- This is a program that asks for users input of x & y, then asks for inputs for how much they are to be increased each time, then the sum of x and the increase is multiplied by the sum of y and its continues for however many times the user wants the calculation to be performed. It will then print the total time taken, and the inputted values.
 - tl;dr enter some numbers and big number go brrr
 ![image](https://github.com/kona-13/Random_Python/assets/77511759/a208c5d9-a26f-4ac2-a196-ef256f8e11d6)
 
@@ -50,3 +50,8 @@
 - Generates a number between 1 - 100
 - Counts how many guesses you made
 - Displays number and number of guesses taken to get it at the end - then prompts to play again
+
+# not_flappy_bird.py
+![image](https://github.com/kona-13/Python_Challenges/assets/77511759/d34537cb-b371-44f0-9fb4-3b0c81539dcd)
+- PyGame implementation of flappy bird - with shapes only.
+- Its okay - a few things seem a bit like stupid ways to do things - but it is functional :)
