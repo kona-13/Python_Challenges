@@ -52,6 +52,6 @@
 - Displays number and number of guesses taken to get it at the end - then prompts to play again
 
 # not_flappy_bird.py
-![image](https://github.com/kona-13/Python_Challenges/assets/77511759/d34537cb-b371-44f0-9fb4-3b0c81539dcd)
+![image](https://github.com/kona-13/Python_Challenges/assets/77511759/b1e951fd-2046-4426-a0d7-6e269aaf7985)
 - PyGame implementation of flappy bird - with shapes only.
 - Its okay - a few things seem a bit like stupid ways to do things - but it is functional :)
