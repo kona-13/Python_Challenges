@@ -103,8 +103,9 @@ def game_loop():
             elif event.type == spawn_pipe_event:
                 if not any(pipe.stopped for pipe in pipes):
                     #gap_y = random.randint(100, height - 300) #This line sometimes causes the gap to be non existent;
-                    gap_y = random.randint(100 + 3 * birds[0].radius, height - 300) #Replaced with this but it is a big gap...;
-                    pipes.append(Pipe(width, gap_y, 200, pipe_width))
+                    #gap_y = random.randint(100 + 3 * birds[0].radius, height - 300) #Replaced with this but it is a big gap...;
+                    gap_y = random.randint(100 + 2 * birds[0].radius, height - 300)
+                    pipes.append(Pipe(width, gap_y, 150, pipe_width))
 
         screen.fill(WHITE)
         
@@ -147,7 +148,7 @@ def game_loop():
             hi_score = points
         
         hi_score_text = pygame.font.SysFont(None, 24).render(f"Hi-Score: {hi_score}", True, BLACK)
-        screen.blit(hi_score_text, (width - 200, 10))
+        screen.blit(hi_score_text, (width - 115, 25))
 
         pygame.display.flip()
         clock.tick(60)
