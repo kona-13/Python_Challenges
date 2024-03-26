@@ -55,3 +55,6 @@
 ![image](https://github.com/kona-13/Python_Challenges/assets/77511759/b1e951fd-2046-4426-a0d7-6e269aaf7985)
 - PyGame implementation of flappy bird - with shapes only.
 - Its okay - a few things seem a bit like stupid ways to do things - but it is functional :)
+
+# starship-takeoff.py
+- A python implemetation of a basic program from this book ![link](https://drive.google.com/file/d/0Bxv0SsvibDMTNlMwTi1PTlVxc2M/view?resourcekey=0-kaU6eyAmIVhT3_H8RkHfHA)
