@@ -68,5 +68,6 @@
 - Literally the same thing as above
 - enter initial quantity, half-life, how long to observe for
 - E.g. initial: 255, HL: 4, for 10 times:
+
 ![image](https://github.com/kona-13/Python_Challenges/assets/77511759/ba740478-56f9-4ef5-b531-7a4792eb8fae)
 
