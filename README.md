@@ -66,5 +66,6 @@
 - Halflife.py is the same thing but for half-lives of elements
 - Enter initial quantity, Half-life, How many times to observe
 - E.g. Initial: 255, HL: 4, Observe: 10 times:
+
 ![image](https://github.com/kona-13/Python_Challenges/assets/77511759/ba740478-56f9-4ef5-b531-7a4792eb8fae)
 
