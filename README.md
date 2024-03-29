@@ -60,6 +60,6 @@
 - A python implemetation of a basic program from this book [link](https://drive.google.com/file/d/0Bxv0SsvibDMTNlMwTi1PTlVxc2M/view?resourcekey=0-kaU6eyAmIVhT3_H8RkHfHA)
 
 # cumulative-operations-grapher
-- Takes two numbers and multiplies or divides them over and over - graphing the results.
+- Simple program that takes two numbers and multiplies or divides them for cumulative operations (exponential growth or decay) and then plots the results on a graph.
 - E.g. x = 80, y = 2 - division, results: 80.0, 40.0, 20.0, 10.0, 5.0, 2.5, 1.25, 0.625, 0.3125, 0.15625...
 ![image](https://github.com/kona-13/Python_Challenges/assets/77511759/eb1ca310-c9fe-44dd-9666-73be935577e9)
